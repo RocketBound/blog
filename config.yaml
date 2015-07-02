@@ -10,6 +10,6 @@ baseurl: "http://rocketbound.github.io/blog"
 canonifyurls: true
 theme: "hyde"
 params:
-    AuthorName: "Rocket Bound"
-    Subtitle: "The journey of a recoverning porn addict"
+    title: "Rocket Bound"
+    Description: "The journey of a recoverning porn addict"
 ---
