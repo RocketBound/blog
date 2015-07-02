@@ -12,9 +12,6 @@ disqusShortname = "rocketbound"
 buildDrafts = false
 paginate = 10
 
-[permalinks]
-    post = "/:year/:month/:title/"
-
 [author]
     name = "Rocket Bound"
 
