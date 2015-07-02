@@ -21,7 +21,7 @@ paginate = 10
 [params]
     truncate = true
 
-    tagline = "The journey of a recoverning porn addict"
+    tagline = "The journey of a recovering porn addict"
     theme = "theme-base-0c"
 
     googleAnalytics = "UA-64734978-1"
