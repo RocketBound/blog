@@ -16,7 +16,7 @@ paginate = 10
     name = "Rocket Bound"
 
 [params]
-    truncate = true
+    truncate = false
 
     tagline = "The journey of a recovering porn addict"
     theme = "theme-base-0c"
