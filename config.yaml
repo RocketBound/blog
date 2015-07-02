@@ -5,7 +5,7 @@ publishdir: "public"
 theme: "hyde"
 indexes:
   category: "categories"
-baseurl: "http://RocketBound.github.io"
+baseurl: "http://rocketbound.github.io/blog"
 title: "Rocket Bound"
 canonifyurls: true
 ---
