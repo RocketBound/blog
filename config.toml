@@ -23,6 +23,8 @@ paginate = 10
     tagline = "The journey of a recoverning porn addict"
     theme = "theme-base-0c"
 
+    googleAnalytics = "UA-64734978-1"
+
 [indexes] 
     category = "categories"
     tag = "tags"
