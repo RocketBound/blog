@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rocket Bound</title>
+    <link>http://RocketBound.github.io/</link>
+    <description>Recent content on Rocket Bound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 01 Jul 2015 13:02:10 +0100</lastBuildDate>
+    <atom:link href="http://RocketBound.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Rebirth</title>
+      <link>http://rocketbound.github.io/posts/rebirth/</link>
+      <pubDate>Wed, 01 Jul 2015 13:02:10 +0100</pubDate>
+      
+      <guid>http://rocketbound.github.io/posts/rebirth/</guid>
+      <description>&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
