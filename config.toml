@@ -28,4 +28,3 @@ paginate = 10
 
 [indexes] 
     category = "categories"
-    tag = "tags"
