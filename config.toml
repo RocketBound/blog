@@ -1,0 +1,28 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+BaseURL = "http://rocketbound.github.io/blog"
+canonifyurls = true
+languageCode = "en-us"
+MetaDataFormat = "toml"
+title = "Rocket Bound"
+theme = "hyde-x"
+buildDrafts = false
+paginate = 10
+
+[permalinks]
+    post = "/:year/:month/:title/"
+
+[author]
+    name = "Rocket Bound"
+
+[params]
+    truncate = true
+
+    tagline = "The journey of a recoverning porn addict"
+    theme = "theme-base-0c"
+
+[indexes] 
+    category = "categories"
+    tag = "tags"
