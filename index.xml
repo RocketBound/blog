@@ -2,19 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rocket Bound</title>
-    <link>http://rocketbound.github.io/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content on Rocket Bound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2015 13:02:10 +0100</lastBuildDate>
-    <atom:link href="http://rocketbound.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2015 23:02:22 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/blog/about/</link>
+      <pubDate>Thu, 02 Jul 2015 23:02:22 +0100</pubDate>
+      
+      <guid>http://localhost:1313/blog/about/</guid>
+      <description>&lt;p&gt;Placeholder&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Rebirth</title>
-      <link>http://rocketbound.github.io/blog/post/rebirth/</link>
+      <link>http://localhost:1313/blog/post/rebirth/</link>
       <pubDate>Wed, 01 Jul 2015 13:02:10 +0100</pubDate>
       
-      <guid>http://rocketbound.github.io/blog/post/rebirth/</guid>
+      <guid>http://localhost:1313/blog/post/rebirth/</guid>
       <description>&lt;p&gt;I have been working towards overcoming an addiction to porn and masturbation for more that a year. It&amp;rsquo;s time to step up and take my recovery more seriously. I have experienced some success during this time, but I’m having difficulties progressing beyond a few weeks abstinence. The purpose of this blog will be to document my progress with the aim of furthering my journey. I will make a post here at least once a week.&lt;/p&gt;
 </description>
     </item>
