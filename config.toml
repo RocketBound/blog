@@ -2,7 +2,7 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
-BaseURL = "http://rocketbound.github.io/blog"
+BaseURL = "http://rocketbound.co.uk"
 canonifyurls = true
 languageCode = "en-us"
 MetaDataFormat = "toml"
