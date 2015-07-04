@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Porn on Rocket Bound</title>
-    <link>http://rocketbound.co.uk/categories/porn/</link>
+    <link>http://localhost:1313/categories/porn/</link>
     <description>Recent content in Porn on Rocket Bound</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 03 Jul 2015 10:39:25 +0100</lastBuildDate>
-    <atom:link href="http://rocketbound.co.uk/categories/porn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/porn/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The journey so far</title>
-      <link>http://rocketbound.co.uk/post/the-journey-so-far/</link>
+      <link>http://localhost:1313/post/the-journey-so-far/</link>
       <pubDate>Fri, 03 Jul 2015 10:39:25 +0100</pubDate>
       
-      <guid>http://rocketbound.co.uk/post/the-journey-so-far/</guid>
+      <guid>http://localhost:1313/post/the-journey-so-far/</guid>
       <description>&lt;p&gt;The first time I encountered the idea that masturabation could have negative effects was during the summer of 2013. I had accidentally stumbled upon a community on reddit known as &lt;a href=&#34;http://reddit.com/r/nofap&#34;&gt;nofap&lt;/a&gt;. This is a comunity where individuals can discuss the impact that masturbation is having on their lives, and encourage each other through recovery. I took some time to read a few of the more popular threads, and left feeling defensive. I admired the commitment of people belonging to this community, but of course, I did not have a problem with porn or masturbation.&lt;/p&gt;
 
 &lt;p&gt;I didn&amp;rsquo;t think about this addiction again until the start of 2014. It dawned on me that some of my personal issues, such as social anxiety, could originate from my frequent masturbation. I was still not fully on board. I had a porn collection of hundreds of videos, thousands of images that had taken time to compile. I had an inexplicable attachment to some of this content. I decided that it would be better to keep my favourite content and delete the rest. My collection halved from 750GB to 300GB, but was no less tempting.&lt;/p&gt;
@@ -27,10 +27,10 @@
     
     <item>
       <title>Rebirth</title>
-      <link>http://rocketbound.co.uk/post/rebirth/</link>
+      <link>http://localhost:1313/post/rebirth/</link>
       <pubDate>Wed, 01 Jul 2015 13:02:10 +0100</pubDate>
       
-      <guid>http://rocketbound.co.uk/post/rebirth/</guid>
+      <guid>http://localhost:1313/post/rebirth/</guid>
       <description>&lt;p&gt;I have been working towards overcoming an addiction to porn and masturbation for more that a year. It&amp;rsquo;s time to step up and take my recovery more seriously. I have experienced some success during this time, but I’m having difficulties progressing beyond a few weeks abstinence. The purpose of this blog will be to document my progress with the aim of furthering my journey. I will make a post here at least once a week.&lt;/p&gt;
 </description>
     </item>
